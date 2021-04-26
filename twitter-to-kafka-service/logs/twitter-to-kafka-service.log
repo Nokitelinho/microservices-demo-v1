@@ -918,3 +918,12 @@ Caused by: twitter4j.JSONException: Unterminated object at character 159 of {"cr
 2021-04-26 22:39:17 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Voyatouch Namfix Lotlux Alpha Overhold Prodder Lotlux Java Subin Bytecard Konklux Stim Voyatouch Zathin
 2021-04-26 22:39:27 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Biodex Transcof Span Bitwolf Trippledex Trippledex Tres-Zap Kafka Subin Zathin Toughjoyfax Alpha Konklux Cardguard
 2021-04-26 22:39:37 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fix San Subin Overhold Subin Elasticsearch Namfix Voyatouch Lotstring
+2021-04-26 23:43:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 11.0.10 on DESKTOP-IMPVB2T with PID 12624 (C:\Users\Anonymous\Desktop\micro\microservices-demo\twitter-to-kafka-service\target\classes started by Anonymous in C:\Users\Anonymous\Desktop\micro\microservices-demo)
+2021-04-26 23:43:56 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-26 23:43:57 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.95 seconds (JVM running for 2.183)
+2021-04-26 23:43:57 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello world
+2021-04-26 23:43:57 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-04-26 23:43:57 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-04-26 23:43:57 [main] INFO  c.m.d.t.t.k.s.r.I.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2021-04-26 23:43:57 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Gembucket Y-find Alpha Prodder Lotstring Microservices Lotstring Bitwolf Transcof
+2021-04-26 23:44:07 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Andalax Alpha Veribet Lotstring Stim Mat Lam Tam Spring Cardguard Cardguard Bytecard Andalax
